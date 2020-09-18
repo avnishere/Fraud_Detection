@@ -17,10 +17,11 @@ Masked features are presented without any prior information.
 
 
 Estimators: Random Forest, XGBoost
-Validation: Startified K-fold 
+
+Validation: Startified K-fold
+
 Hyperparameter Optimization: Grid Search CV
 
 Platform: Jupyter Notebook, Python 3.7
-
 
 Repository:  Dataset and a single jupyter file.
